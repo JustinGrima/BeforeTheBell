@@ -1,4 +1,4 @@
-# CoverCall AI (MVP)
+# BeforeTheBell AI (MVP)
 
 Voice and SMS substitute teacher dispatcher built with FastAPI, Postgres, Redis, and Celery.
 
